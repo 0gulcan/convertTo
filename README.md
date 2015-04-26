@@ -1,5 +1,5 @@
 # convertTo
-Change any file encoding to desired encoding. 
+Recursively change any file encoding to desired encoding. 
 
 # Install
 Just copy convertTo.sh file to /usr/locale/bin/
